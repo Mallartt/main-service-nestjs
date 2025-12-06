@@ -1,10 +1,10 @@
 Перейдите в папку проекта:
-cd main-service
+`cd main-service`
 
 Скачайте все зависимости:
-npm install
+`npm install`
 
 Запустите сервер:
-npm run start
+`npm run start`
 
 Сервер запустится на порте 3001.
